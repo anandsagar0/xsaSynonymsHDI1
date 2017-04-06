@@ -1,0 +1,12 @@
+{
+  "role": {
+    "name": "xsaSynonymsHDI1.db::external_access",
+    "object_privileges": [
+      {
+        "name": "xsaSynonymsHDI1.db::tables.Customers",
+        "type": "TABLE",
+        "privileges": [ "SELECT" ]
+      }
+    ]
+  }
+}
